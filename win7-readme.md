@@ -37,6 +37,7 @@ https://answers.microsoft.com/zh-hans/microsoftedge/forum/all/%E5%AE%89%E8%A3%85
 
 ## 2. tauri配置
 ### 2.1 webview2安装模式
+> 说明：将webview2下载程序内置，避免因为IE设置导致无法下载
 ```
 {
   "tauri": {
@@ -53,6 +54,7 @@ https://answers.microsoft.com/zh-hans/microsoftedge/forum/all/%E5%AE%89%E8%A3%85
 
 ## 3. 相关文档
 > https://github.com/tauri-apps/tauri/issues/7338
+>
 > https://github.com/tauri-apps/tauri/issues/2882
 
 
