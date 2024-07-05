@@ -51,7 +51,9 @@ https://answers.microsoft.com/zh-hans/microsoftedge/forum/all/%E5%AE%89%E8%A3%85
 }
 ```
 
-## 3. 常见问题
+## 3. 相关文档
+> https://github.com/tauri-apps/tauri/issues/7338
+> https://github.com/tauri-apps/tauri/issues/2882
 
 
 
